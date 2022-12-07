@@ -1,8 +1,4 @@
 # __NLP Question Generator__
-## _The Last Markdown Editor, Ever_
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
  ![npm package](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 # Real life Problem Statement
@@ -12,4 +8,27 @@ To deal with this issue we have created an innovative way to test concept unders
 
 ## Flow Diagram 
 [![Untitled-Diagram-drawio-15.png](https://i.postimg.cc/bNZNFqW0/Untitled-Diagram-drawio-15.png)](https://postimg.cc/fJhNVQwk)
+
+### User Interface
+[![2.png](https://i.postimg.cc/1X02rYcg/2.png)](https://postimg.cc/MfT9W5Lx)
+
+### Fill in the blanks
+[![4.png](https://i.postimg.cc/CxsXqtM9/4.png)](https://postimg.cc/nXM383D1)
+
+### Multiple Choice Questions
+[![11.png](https://i.postimg.cc/RF7HScL1/11.png)](https://postimg.cc/bDvJLSMd)
+
+### True & False
+[![8.png](https://i.postimg.cc/B6KCxLct/8.png)](https://postimg.cc/ZBJ3mqQh)
+
+### Further task
+Any further changes or recommendation are welcomed to contribute to this repo 
+- Improving accuracy
+- Generate wh-type questions
+- Flash card generation
+
+
+
+
+
 
