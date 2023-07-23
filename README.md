@@ -1,4 +1,4 @@
-# __NLP Question Generator__
+# __Automated PDF Question Generator: Enhancing Learning with Quick Assessments__
 
  ![npm package](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 # Real life Problem Statement
